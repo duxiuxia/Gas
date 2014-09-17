@@ -1,3 +1,5 @@
+# Xiuxia Du starts looking at the ADAP-GC 3.0 code on 9/17/14.
+
 # For ADAP3
 
 # * please check "svn up" to get the most updated version of source code *
